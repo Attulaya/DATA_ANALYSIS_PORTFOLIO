@@ -135,5 +135,5 @@ By leveraging data analysis techniques, this project offers car manufacturers th
 ## Contact
 For further information or inquiries, please feel free to reach out to me at attulaya@gmail.com
 
-##TABLEAU PROFILE
+## TABLEAU PROFILE
 To view my TABlEAU Profile : https://public.tableau.com/app/profile/attulaya 
